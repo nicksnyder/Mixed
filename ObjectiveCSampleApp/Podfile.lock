@@ -1,0 +1,16 @@
+PODS:
+  - Mixed (1.0.0)
+
+DEPENDENCIES:
+  - Mixed (from `../Mixed`)
+
+EXTERNAL SOURCES:
+  Mixed:
+    :path: ../Mixed
+
+SPEC CHECKSUMS:
+  Mixed: d786993a23535561c2e6a683c893264f6ea66f71
+
+PODFILE CHECKSUM: 161363074c4099aa235ff6507286cb21e5526097
+
+COCOAPODS: 1.1.0.beta.1

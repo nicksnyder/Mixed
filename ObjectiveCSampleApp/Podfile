@@ -1,0 +1,11 @@
+source 'git@github.com:nicksnyder/Specs.git'
+use_frameworks!
+
+target 'ObjectiveCSampleApp' do
+  pod 'Mixed', :path => '../Mixed'
+
+  target 'ObjectiveCSampleAppTests' do
+    inherit! :search_paths
+  end
+
+end

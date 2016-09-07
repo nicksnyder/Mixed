@@ -1,0 +1,23 @@
+{
+  "name": "Mixed",
+  "version": "1.0.0",
+  "license": "private",
+  "homepage": "https://github.com/nicksnyder/Mixed",
+  "authors": "Nick",
+  "summary": "Mixed",
+  "source": {
+    "path": "."
+  },
+  "source_files": "**/*.{swift,h,m}",
+  "resource_bundles": {
+    "MixedResources": [
+      "**/*.xcassets"
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "frameworks": "Foundation"
+  }
+}
